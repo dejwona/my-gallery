@@ -23,12 +23,12 @@ body {
 }
 #prevPicture {
 	position: absolute;
-    top: 425px;
+    top: -490px;
     font-size: 1.3em;
     background-color: white;
     color: black;
     padding: 3%;
-    left:-245px;
+    left:-46px;
     border-radius: 8px;    
 }
 #prevPicture:hover {
@@ -37,12 +37,12 @@ body {
 }
 #nextPicture {
 	position: absolute;
-    top: 425px;
+    top: -490px;
     font-size: 1.3em;
     background-color: white;
     color: black;
     padding: 3%;
-    left:503px;
+    left:641px;
     border-radius: 8px;
 }
 #nextPicture:hover {
